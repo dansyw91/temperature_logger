@@ -32,6 +32,6 @@ To read temperature and humidity data using DHT22 sensor and Arduino UNO and log
 
 
 ## ✅ Example Output
-Temperature: 25.3 °C | Humidity: 60.5 %
-Temperature: 26.1 °C | Humidity: 59.7 %
-Temperature: 24.8 °C | Humidity: 62.0 %
+- Temperature: 25.3 °C | Humidity: 60.5 %
+- Temperature: 26.1 °C | Humidity: 59.7 %
+- Temperature: 24.8 °C | Humidity: 62.0 %
